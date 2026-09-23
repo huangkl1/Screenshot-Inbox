@@ -2,6 +2,10 @@
 
 Screenshot Inbox 是一款面向 Windows 桌面版 Obsidian 的截图插件。用户可以从其他应用启动截图、添加标注，并将 PNG 图片保存到 Obsidian Vault，再插入选定的 Markdown 笔记。
 
+## 界面预览
+
+![Screenshot Inbox 截图编辑与笔记选择界面](./assets/screenshot-inbox-ui.png)
+
 ## 功能
 
 - 使用系统级快捷键启动截图，默认快捷键为 `Alt+Q`，也可以在插件设置中修改。
