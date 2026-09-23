@@ -1,0 +1,13 @@
+.screenshot-inbox-shortcut-status {
+  color: var(--text-muted);
+  font-size: var(--font-ui-smaller);
+}
+
+.screenshot-inbox-shortcut-error {
+  color: var(--text-error);
+}
+
+.screenshot-inbox-path-suggestions {
+  max-height: 18rem;
+  overflow-y: auto;
+}

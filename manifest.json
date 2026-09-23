@@ -1,0 +1,9 @@
+{
+  "id": "screenshot-inbox",
+  "name": "Screenshot Inbox",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.7",
+  "description": "快速截取屏幕、添加标注，并将截图保存到 Obsidian 笔记。",
+  "author": "wc·d",
+  "isDesktopOnly": true
+}

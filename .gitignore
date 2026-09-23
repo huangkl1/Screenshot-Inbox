@@ -1,0 +1,27 @@
+# Dependencies and generated release packages
+node_modules/
+.release/
+coverage/
+*.tsbuildinfo
+
+# Logs and local environment files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env
+.env.*
+!.env.example
+
+# Editor and operating-system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Obsidian runtime data
+.obsidian/
+
+# Internal planning documents
+Screenshot-Inbox-PRD.md
+Screenshot-Inbox-实施计划.md
